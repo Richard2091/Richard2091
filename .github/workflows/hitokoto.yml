@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: 拉取仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: 更新 README 占位区
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require("fs");
@@ -44,7 +44,7 @@ jobs:
             fs.writeFileSync(path, updated, "utf8");
 
       - name: 提交更新
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: 更新今日一句"
           file_pattern: README.md
