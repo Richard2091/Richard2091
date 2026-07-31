@@ -78,6 +78,7 @@
     <a href="https://github.com/Richard2091/backend-develop">
     <img width="420" src="https://gh-card.dev/repos/Richard2091/backend-develop.svg" alt="backend-develop">
   </a>
+  <br>
   <a href="https://github.com/Richard2091/subagents-manager">
     <img width="420" src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
   </a>
@@ -85,6 +86,62 @@
     <img width="420" src="https://gh-card.dev/repos/Richard2091/disk-analyzer.svg" alt="disk-analyzer">
   </a>
 </div>
+
+<!-- 已上线项目 -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=已上线项目&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlign=11" alt="已上线项目">
+<!-- 项目预览 -->
+<table align="center" width="860">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://workspace.404exception.cn">
+        <img width="390" src="./assets/screenshots/temp-workspace-home.png" alt="临时工作区首页预览">
+      </a>
+      <h3>临时工作区</h3>
+      <p>轻量级临时工作区，用于短周期资料创建、分享、加密与自动过期。</p>
+      <a href="https://workspace.404exception.cn">
+        <img src="https://img.shields.io/badge/访问项目-2EA44F?style=for-the-badge" alt="访问项目">
+      </a>
+      <a href="https://github.com/Richard2091/TempWorkspace">
+        <img src="https://img.shields.io/badge/查看仓库-0969DA?style=for-the-badge&logo=github" alt="查看仓库">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://codex-mail.404exception.cn">
+        <img width="390" src="./assets/screenshots/mailbox-assistant-home.png" alt="邮箱管理助手首页预览">
+      </a>
+      <h3>邮箱管理助手</h3>
+      <p>面向临时邮箱与令牌场景的邮箱账号、邮件列表和验证码提取工具。</p>
+      <a href="https://codex-mail.404exception.cn">
+        <img src="https://img.shields.io/badge/访问项目-2EA44F?style=for-the-badge" alt="访问项目">
+      </a>
+      <a href="https://github.com/Richard2091/mailbox-management-assistant">
+        <img src="https://img.shields.io/badge/查看仓库-0969DA?style=for-the-badge&logo=github" alt="查看仓库">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://chatgpt.404exception.cn">
+        <img width="390" src="./assets/screenshots/personal-chatgpt-home.png" alt="个人ChatGPT首页预览">
+      </a>
+      <h3>个人ChatGPT</h3>
+      <p>自用对话、绘图、画廊、号池与日志管理入口，沉淀常用创作工作流。</p>
+      <a href="https://chatgpt.404exception.cn">
+        <img src="https://img.shields.io/badge/访问项目-2EA44F?style=for-the-badge" alt="访问项目">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://codex.404exception.cn">
+        <img width="390" src="./assets/screenshots/personal-relay-station-home.png" alt="个人中转站首页预览">
+      </a>
+      <h3>个人中转站</h3>
+      <p>自用渠道聚合站点，用于负载均衡并查看多个模型通道可用性、延迟和服务状态。</p>
+      <a href="https://codex.404exception.cn">
+        <img src="https://img.shields.io/badge/访问项目-2EA44F?style=for-the-badge" alt="访问项目">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 居中结束 -->
 </div>
