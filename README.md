@@ -77,13 +77,13 @@
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/feature-development-workflow">
-    <img width="280" src="https://gh-card.dev/repos/Richard2091/feature-development-workflow.svg" alt="feature-development-workflow">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/feature-development-workflow.svg" alt="feature-development-workflow">
   </a>
     <a href="https://github.com/Richard2091/backend-develop">
-    <img width="280" src="https://gh-card.dev/repos/Richard2091/backend-develop.svg" alt="backend-develop">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/backend-develop.svg" alt="backend-develop">
   </a>
   <a href="https://github.com/Richard2091/subagents-manager">
-    <img width="280" src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
   </a>
 </div>
 
