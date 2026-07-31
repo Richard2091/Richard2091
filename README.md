@@ -7,5 +7,9 @@
 <!-- HITOKOTO:END -->
 
 <!-- SNAKE:START -->
-<!-- 贡献图动画将在配置 GitHub Actions 后由工作流生成到 output 分支。 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub 贡献图贪吃蛇动画" src="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-grid-snake.svg">
+</picture>
 <!-- SNAKE:END -->
