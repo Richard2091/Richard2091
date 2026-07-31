@@ -43,9 +43,7 @@
 </picture>
 
 <!-- 开源项目 -->
-<div ">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=开源项目&fontSize=36&fontColor=58A6FF&animation=fadeIn" alt="开源项目">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=开源项目&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlign=9" alt="开源项目">
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/TempWorkspace">
@@ -71,9 +69,7 @@
 </div>
 
 <!-- Skill仓库 -->
-<div ">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Skill仓库&fontSize=36&fontColor=58A6FF&animation=fadeIn" alt="Skill">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Skill仓库&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlign=9" alt="Skill仓库">
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/feature-development-workflow">
@@ -84,6 +80,9 @@
   </a>
   <a href="https://github.com/Richard2091/subagents-manager">
     <img width="420" src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
+  </a>
+  <a href="https://github.com/Richard2091/disk-analyzer">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/disk-analyzer.svg" alt="disk-analyzer">
   </a>
 </div>
 
