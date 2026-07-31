@@ -49,22 +49,24 @@
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/TempWorkspace">
-    <img src="https://gh-card.dev/repos/Richard2091/TempWorkspace.svg" alt="TempWorkspace">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/TempWorkspace.svg" alt="TempWorkspace">
   </a>
   <a href="https://github.com/Richard2091/PersonalResume">
-    <img src="https://gh-card.dev/repos/Richard2091/PersonalResume.svg" alt="PersonalResume">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/PersonalResume.svg" alt="PersonalResume">
   </a>
+  <br>
   <a href="https://github.com/Richard2091/mailbox-management-assistant">
-    <img src="https://gh-card.dev/repos/Richard2091/mailbox-management-assistant.svg" alt="mailbox-management-assistant">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/mailbox-management-assistant.svg" alt="mailbox-management-assistant">
   </a>
   <a href="https://github.com/Richard2091/Android-Emulator">
-    <img src="https://gh-card.dev/repos/Richard2091/Android-Emulator.svg" alt="Android-Emulator">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/Android-Emulator.svg" alt="Android-Emulator">
   </a>
+  <br>
   <a href="https://github.com/Richard2091/RealTimeRecognize">
-    <img src="https://gh-card.dev/repos/Richard2091/RealTimeRecognize.svg" alt="RealTimeRecognize">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/RealTimeRecognize.svg" alt="RealTimeRecognize">
   </a>
   <a href="https://github.com/Richard2091/MapTeleport">
-    <img src="https://gh-card.dev/repos/Richard2091/MapTeleport.svg" alt="MapTeleport">
+    <img width="420" src="https://gh-card.dev/repos/Richard2091/MapTeleport.svg" alt="MapTeleport">
   </a>
 </div>
 
@@ -75,13 +77,13 @@
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/feature-development-workflow">
-    <img src="https://gh-card.dev/repos/Richard2091/feature-development-workflow.svg" alt="feature-development-workflow">
+    <img width="280" src="https://gh-card.dev/repos/Richard2091/feature-development-workflow.svg" alt="feature-development-workflow">
   </a>
     <a href="https://github.com/Richard2091/backend-develop">
-    <img src="https://gh-card.dev/repos/Richard2091/backend-develop.svg" alt="backend-develop">
+    <img width="280" src="https://gh-card.dev/repos/Richard2091/backend-develop.svg" alt="backend-develop">
   </a>
   <a href="https://github.com/Richard2091/subagents-manager">
-    <img src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
+    <img width="280" src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
   </a>
 </div>
 
