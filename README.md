@@ -35,11 +35,11 @@
   <img alt="NAS" src="https://img.shields.io/badge/NAS-0F766E?style=for-the-badge" />
 </div>
 
-<!-- 贪吃蛇 -->
+<!-- 贡献黑洞 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub 贡献图贪吃蛇动画" src="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-blackhole-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-blackhole.svg">
+  <img alt="GitHub 贡献黑洞动画" src="https://raw.githubusercontent.com/Richard2091/Richard2091/output/github-contribution-blackhole.svg">
 </picture>
 
 <!-- 开源项目 -->
@@ -47,24 +47,24 @@
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/TempWorkspace">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/TempWorkspace.svg" alt="TempWorkspace">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=TempWorkspace&theme=transparent&hide_border=true" alt="TempWorkspace">
   </a>
   <a href="https://github.com/Richard2091/PersonalResume">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/PersonalResume.svg" alt="PersonalResume">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=PersonalResume&theme=transparent&hide_border=true" alt="PersonalResume">
   </a>
   <br>
   <a href="https://github.com/Richard2091/mailbox-management-assistant">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/mailbox-management-assistant.svg" alt="mailbox-management-assistant">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=mailbox-management-assistant&theme=transparent&hide_border=true" alt="mailbox-management-assistant">
   </a>
   <a href="https://github.com/Richard2091/Android-Emulator">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/Android-Emulator.svg" alt="Android-Emulator">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=Android-Emulator&theme=transparent&hide_border=true" alt="Android-Emulator">
   </a>
   <br>
   <a href="https://github.com/Richard2091/RealTimeRecognize">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/RealTimeRecognize.svg" alt="RealTimeRecognize">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=RealTimeRecognize&theme=transparent&hide_border=true" alt="RealTimeRecognize">
   </a>
   <a href="https://github.com/Richard2091/MapTeleport">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/MapTeleport.svg" alt="MapTeleport">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=MapTeleport&theme=transparent&hide_border=true" alt="MapTeleport">
   </a>
 </div>
 
@@ -73,17 +73,17 @@
 <!-- 项目列表 -->
 <div>
   <a href="https://github.com/Richard2091/feature-development-workflow">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/feature-development-workflow.svg" alt="feature-development-workflow">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=feature-development-workflow&theme=transparent&hide_border=true" alt="feature-development-workflow">
   </a>
-    <a href="https://github.com/Richard2091/backend-develop">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/backend-develop.svg" alt="backend-develop">
+  <a href="https://github.com/Richard2091/backend-develop">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=backend-develop&theme=transparent&hide_border=true" alt="backend-develop">
   </a>
   <br>
   <a href="https://github.com/Richard2091/subagents-manager">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/subagents-manager.svg" alt="subagents-manager">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=subagents-manager&theme=transparent&hide_border=true" alt="subagents-manager">
   </a>
   <a href="https://github.com/Richard2091/disk-analyzer">
-    <img width="420" src="https://gh-card.dev/repos/Richard2091/disk-analyzer.svg" alt="disk-analyzer">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin?username=Richard2091&repo=disk-analyzer&theme=transparent&hide_border=true" alt="disk-analyzer">
   </a>
 </div>
 

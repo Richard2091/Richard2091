@@ -1,4 +1,4 @@
-name: 生成贡献图动画
+name: 生成贡献黑洞动画
 
 on:
   schedule:
@@ -13,18 +13,18 @@ permissions:
 
 jobs:
   generate:
-    name: 生成贡献图动画
+    name: 生成贡献黑洞动画
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v7
+
       - name: 生成 SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        run: node scripts/contribution-blackhole.mjs "${{ github.repository_owner }}" dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 发布到 output 分支
         uses: crazy-max/ghaction-github-pages@v5
